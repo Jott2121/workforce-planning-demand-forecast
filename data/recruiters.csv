@@ -1,0 +1,39 @@
+recruiter_id,name,business_unit,primary_skill_family,secondary_skill_families,throughput_hires_per_month,allocation_pct
+RCR-50001,Emerson Andersen,Aeronautics,Systems Engineering,"Data Science & Analytics, Supply Chain",2.77,1.0
+RCR-50002,Skyler Johnson,Aeronautics,Software Engineering,,2.49,1.0
+RCR-50003,Sage Lopez,Aeronautics,Electrical Engineering,"Data Science & Analytics, Mechanical Engineering",2.43,1.0
+RCR-50004,Rowan Garcia,Aeronautics,Software Engineering,HR / People Analytics,3.13,1.0
+RCR-50005,Reese Cohen,Aeronautics,Business Development,,1.55,1.0
+RCR-50006,Emerson Kim,Aeronautics,Business Development,,2.39,0.5
+RCR-50007,Casey Brown,Aeronautics,Supply Chain,"Data Science & Analytics, HR / People Analytics",3.64,1.0
+RCR-50008,Peyton Cohen,Aeronautics,Electrical Engineering,"Business Development, Cybersecurity",2.76,1.0
+RCR-50009,Cameron Okafor,Aeronautics,Program / Project Management,,3.51,1.0
+RCR-50010,Jamie Cohen,Missiles & Fire Control,Finance & Accounting,,4.16,0.75
+RCR-50011,Avery Lopez,Missiles & Fire Control,Program / Project Management,Supply Chain,3.36,1.0
+RCR-50012,Rowan Murphy,Missiles & Fire Control,Business Development,,1.51,1.0
+RCR-50013,Jamie Reyes,Missiles & Fire Control,Cybersecurity,"Data Science & Analytics, Program / Project Management",2.15,1.0
+RCR-50014,Reese Rodriguez,Rotary & Mission Systems,Manufacturing Operations,Supply Chain,2.82,1.0
+RCR-50015,Sam Yamamoto,Rotary & Mission Systems,HR / People Analytics,,3.17,1.0
+RCR-50016,Sam Chen,Rotary & Mission Systems,Systems Engineering,Mechanical Engineering,2.05,1.0
+RCR-50017,Emerson Hill,Rotary & Mission Systems,Cybersecurity,,1.91,1.0
+RCR-50018,Jordan Garcia,Rotary & Mission Systems,Cybersecurity,"Supply Chain, Systems Engineering",1.24,1.0
+RCR-50019,Riley Singh,Rotary & Mission Systems,Business Development,"Cybersecurity, Supply Chain",1.65,1.0
+RCR-50020,Sam Chen,Rotary & Mission Systems,HR / People Analytics,"Cybersecurity, Electrical Engineering",2.44,1.0
+RCR-50021,Rowan Khan,Rotary & Mission Systems,Finance & Accounting,,3.16,1.0
+RCR-50022,Taylor Murphy,Rotary & Mission Systems,Manufacturing Operations,,4.07,1.0
+RCR-50023,Sage Garcia,Space,Manufacturing Operations,,3.4,1.0
+RCR-50024,Peyton Khan,Space,Systems Engineering,,1.16,1.0
+RCR-50025,Peyton Dubois,Space,Mechanical Engineering,Supply Chain,2.31,1.0
+RCR-50026,Drew Khan,Space,Finance & Accounting,"Electrical Engineering, Supply Chain",2.96,1.0
+RCR-50027,Reese Reyes,Space,Manufacturing Operations,,4.23,1.0
+RCR-50028,Peyton Nguyen,Space,Software Engineering,"Data Science & Analytics, Finance & Accounting",2.84,1.0
+RCR-50029,Avery Cohen,Space,Program / Project Management,,2.74,1.0
+RCR-50030,Hayden Reyes,Space,Finance & Accounting,"Business Development, Program / Project Management",3.22,1.0
+RCR-50031,Riley Johnson,Space,Electrical Engineering,Program / Project Management,3.28,1.0
+RCR-50032,Morgan Andersen,Space,Finance & Accounting,,4.06,1.0
+RCR-50033,Sage Okafor,Corporate Shared Services,Mechanical Engineering,Program / Project Management,1.8,1.0
+RCR-50034,Drew Patel,Corporate Shared Services,Electrical Engineering,Systems Engineering,2.24,1.0
+RCR-50035,Quinn Nguyen,Corporate Shared Services,HR / People Analytics,"Cybersecurity, Manufacturing Operations",3.04,1.0
+RCR-50036,Peyton Reyes,Corporate Shared Services,Electrical Engineering,,2.17,1.0
+RCR-50037,Casey Andersen,Corporate Shared Services,Software Engineering,"HR / People Analytics, Program / Project Management",3.2,1.0
+RCR-50038,Drew Yamamoto,Corporate Shared Services,Manufacturing Operations,"Business Development, Supply Chain",3.56,1.0
