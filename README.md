@@ -4,7 +4,7 @@
 
 Strategic workforce planning, recruiter capacity forecasting, and scenario-based hiring strategy — decision support for enterprise talent organizations.
 
-**Live dashboard:** deployment URL to be added. Run locally with `streamlit run app/streamlit_app.py`.
+**[Live dashboard →](https://workforce-planning-jotterson.streamlit.app/)** (no install required)
 
 ---
 
