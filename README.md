@@ -231,4 +231,14 @@ Every chart in the application is produced from synthetic data calibrated agains
 
 A production deployment replaces `src.generate` with real-source-system feeds. The rest of the codebase is designed to not change.
 
-MIT licensed.
+---
+
+## About
+
+Part of a People Analytics portfolio covering workforce planning, recruiting, compensation equity, and retention. Companion repositories:
+
+- [hiring-funnel-analytics](https://github.com/Jott2121/hiring-funnel-analytics) — recruiting funnel performance and bias monitoring
+- [compensation-equity-analysis](https://github.com/Jott2121/compensation-equity-analysis) — regression-based pay equity audit
+- [hr-attrition-predictor](https://github.com/Jott2121/hr-attrition-predictor) — responsible retention risk modeling
+
+Maintainer: [Jeff Otterson](https://github.com/Jott2121). Libraries: `pandas`, `scipy`, `scikit-learn`, `streamlit`, `plotly`. MIT licensed.
