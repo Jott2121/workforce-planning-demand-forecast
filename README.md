@@ -1,6 +1,8 @@
 # Workforce Planning & Recruiter Capacity
 
 ![CI](https://github.com/Jott2121/workforce-planning-demand-forecast/actions/workflows/ci.yml/badge.svg)
+![CodeQL](https://github.com/Jott2121/workforce-planning-demand-forecast/actions/workflows/codeql.yml/badge.svg)
+![Coverage](https://raw.githubusercontent.com/Jott2121/workforce-planning-demand-forecast/python-coverage-comment-action-data/badge.svg)
 
 Strategic workforce planning, recruiter capacity forecasting, and scenario-based hiring strategy — decision support for enterprise talent organizations.
 
@@ -242,3 +244,13 @@ Part of a People Analytics portfolio covering workforce planning, recruiting, co
 - [hr-attrition-predictor](https://github.com/Jott2121/hr-attrition-predictor) — responsible retention risk modeling
 
 Maintainer: [Jeff Otterson](https://github.com/Jott2121). Libraries: `pandas`, `scipy`, `scikit-learn`, `streamlit`, `plotly`. MIT licensed.
+
+## Reliability & security
+
+This repo is gated like production:
+
+- **Coverage-gated tests** — the analytical core (`src/`, excluding plotting/export glue) is unit-tested and the build fails if coverage drops below the floor (currently 90% on the core).
+- **CodeQL** — `security-extended` static analysis on every push, PR, and weekly; findings surface in the Security tab.
+- **Pinned supply chain** — GitHub Actions pinned to commit SHAs, kept current by Dependabot.
+- **Protected `main`** — required checks must pass before a merge; private vulnerability reporting is enabled.
+- **Disclosure policy** — see [SECURITY.md](SECURITY.md).
