@@ -1,0 +1,6 @@
+[run]
+relative_files = true
+source =
+    src
+omit =
+    src/executive_summary.py
